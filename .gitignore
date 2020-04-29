@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+Assembly-CSharp.csproj
+Hello World.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
